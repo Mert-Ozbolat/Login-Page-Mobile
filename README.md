@@ -1,8 +1,25 @@
+# Login-Page-Mobile📱🎴
+
+This is a simple authentication app built with React Native. The app includes:
+
+- **Login Page**: Allows users to sign in using their credentials.
+- **Signup Page**: Allows new users to create an account.
+
+## Features💣📳
+
+- **Login Page**: Users can log in with their email and password.
+- **Signup Page**: Users can register with a new email and password.
+- Basic form validation for both pages.
+
+# Preview🔐⚙
+
+![](./login.gif)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
@@ -77,4 +94,3 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
-# Login-Page-Mobile
